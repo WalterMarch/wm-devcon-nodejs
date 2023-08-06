@@ -1,3 +1,3 @@
 #!/bin/bash
 
-source /workspaces/wm-devcon-nodejs/.devcontainer/configit.sh
+source $1/.devcontainer/configit.sh $1
